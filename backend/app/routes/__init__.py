@@ -1,0 +1,2 @@
+# routes
+from . import auth
